@@ -4,7 +4,7 @@ A Java application for managing bread recipes and generating shopping lists base
 
 ## 📌 Project Overview
 - **Purpose**: Manage multiple bread recipes and generate shopping lists based on desired quantities
-- **Course**: Assignment 3 for [Course Name] at Algonquin College
+  
 - **Key Features**:
   - Recipe storage with ingredient tracking
   - Shopping list generation
